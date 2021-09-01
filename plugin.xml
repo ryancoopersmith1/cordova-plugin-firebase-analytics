@@ -49,7 +49,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
 
         <podspec>
             <config>
-                <source url="https://cdn.cocoapods.org/"/>
+                <source url="https://github.com/CocoaPods/Specs.git"/>
             </config>
             <pods>
                 <pod name="Firebase/Analytics" spec="$IOS_FIREBASE_ANALYTICS_VERSION" />
